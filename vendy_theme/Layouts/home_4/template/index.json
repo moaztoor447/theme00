@@ -1,0 +1,449 @@
+{
+    "sections": {
+      "16299826878a1eab41": {
+        "type": "index-divider",
+        "settings": {
+          "section_view": "full-width",
+          "type_value": "px",
+          "padding_top": 15,
+          "padding_bottom": 15,
+          "padding_top_vw": 0,
+          "padding_bottom_vw": 0,
+          "margin_top": 0,
+          "margin_bottom": 0,
+          "background_color": "#fbfbfb",
+          "tablet_padding_top": 15,
+          "tablet_padding_bottom": 15,
+          "tablet_margin_top": 0,
+          "tablet_margin_bottom": 0
+        }
+      },
+      "16299758010ab07697": {
+        "type": "index-banners",
+        "blocks": {
+          "16299758010ab07697-0": {
+            "type": "banner",
+            "settings": {
+              "width": "6",
+              "banner_style": "standard",
+              "off_overlay_mobile": false,
+              "use_bgb": true,
+              "bgb_color": "#f2f3f5",
+              "bgb_color_opacity": 1,
+              "inset_block": "14% 24% 8.2%",
+              "use_bottom_offset_mobile": true,
+              "margin_bottom": 30,
+              "use_bgo": false,
+              "bg_color": "",
+              "bg_color_opacity": 0.5,
+              "inverted": false,
+              "h_cpos": "center",
+              "v_cpos": "end",
+              "reverse_cpos": "flex-column",
+              "textalign_pos": "center",
+              "item_title": "Designer knitted clothing",
+              "color_title": "#121212",
+              "item_subtitle": "",
+              "color_subtitle": "#121212",
+              "item_text": "",
+              "color_text": "#797b7e",
+              "custom_heading": "",
+              "color_ch": "#797b7e",
+              "code": "",
+              "caption_size": "xsmall",
+              "inset_caption": "5%  0  3%",
+              "item_link": "shopify:\/\/collections",
+              "link_text": "",
+              "link_type_banner": true,
+              "btn_style": "btn-alternate",
+              "btn_size": "btn-md",
+              "margin_title": 22,
+              "margin_text": 15,
+              "margin_btn": 35,
+              "custom_class": ""
+            }
+          },
+          "16299758010ab07697-1": {
+            "type": "banner",
+            "settings": {
+              "width": "6",
+              "banner_style": "overlay",
+              "off_overlay_mobile": false,
+              "use_bgb": false,
+              "bgb_color": "",
+              "bgb_color_opacity": 0.5,
+              "inset_block": "0 0 0 0",
+              "use_bottom_offset_mobile": true,
+              "margin_bottom": 30,
+              "use_bgo": false,
+              "bg_color": "",
+              "bg_color_opacity": 0.5,
+              "inverted": true,
+              "h_cpos": "center",
+              "v_cpos": "center",
+              "reverse_cpos": "flex-column-reverse",
+              "textalign_pos": "center",
+              "item_title": "Fashion changes, <br> style is eternal!",
+              "color_title": "#121212",
+              "item_subtitle": "",
+              "color_subtitle": "#121212",
+              "item_text": "",
+              "color_text": "#797b7e",
+              "custom_heading": "",
+              "color_ch": "#797b7e",
+              "code": "",
+              "caption_size": "medium",
+              "inset_caption": "6% 7% 6% 7%",
+              "item_link": "shopify:\/\/collections",
+              "link_text": "shop now",
+              "link_type_banner": false,
+              "btn_style": "btn-alternate",
+              "btn_size": "btn-md",
+              "margin_title": 20,
+              "margin_text": 15,
+              "margin_btn": 30,
+              "custom_class": ""
+            }
+          }
+        },
+        "block_order": [
+          "16299758010ab07697-0",
+          "16299758010ab07697-1"
+        ],
+        "settings": {
+          "section_title": "",
+          "desc": "",
+          "container_width": "container-fluid",
+          "reset_indent": true,
+          "bg_section": "rgba(0,0,0,0)",
+          "inset_section": "0px 0px 0px 0px",
+          "offset_section": "0px 0px 0px 0px"
+        }
+      },
+      "1627899736175f45d2": {
+        "type": "index-divider",
+        "settings": {
+          "section_view": "full-width",
+          "type_value": "vw",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_top_vw": 0,
+          "padding_bottom_vw": 0,
+          "margin_top": 30,
+          "margin_bottom": 0,
+          "background_color": "",
+          "tablet_padding_top": 0,
+          "tablet_padding_bottom": 0,
+          "tablet_margin_top": 30,
+          "tablet_margin_bottom": 0
+        }
+      },
+      "1662969762b867119f": {
+        "type": "index-lookbook",
+        "blocks": {
+          "1662969761c5affef3-0": {
+            "type": "image",
+            "settings": {
+              "image_column": "4",
+              "offset_block_top": "0",
+              "item_product_1": "",
+              "item_x_1": 50,
+              "item_y_1": 50,
+              "item_product_2": "",
+              "item_x_2": 50,
+              "item_y_2": 50,
+              "item_product_3": "",
+              "item_x_3": 50,
+              "item_y_3": 50,
+              "item_product_4": "",
+              "item_x_4": 50,
+              "item_y_4": 50
+            }
+          },
+          "1662969761c5affef3-1": {
+            "type": "image",
+            "settings": {
+              "image_column": "4",
+              "offset_block_top": "0",
+              "item_product_1": "",
+              "item_x_1": 50,
+              "item_y_1": 50,
+              "item_product_2": "",
+              "item_x_2": 50,
+              "item_y_2": 50,
+              "item_product_3": "",
+              "item_x_3": 50,
+              "item_y_3": 50,
+              "item_product_4": "",
+              "item_x_4": 50,
+              "item_y_4": 50
+            }
+          },
+          "cf3b613e-1995-4b56-871a-b1a9d4da2c15": {
+            "type": "image",
+            "settings": {
+              "image_column": "4",
+              "offset_block_top": "0",
+              "item_product_1": "",
+              "item_x_1": 50,
+              "item_y_1": 50,
+              "item_product_2": "",
+              "item_x_2": 50,
+              "item_y_2": 50,
+              "item_product_3": "",
+              "item_x_3": 50,
+              "item_y_3": 50,
+              "item_product_4": "",
+              "item_x_4": 50,
+              "item_y_4": 50
+            }
+          }
+        },
+        "block_order": [
+          "1662969761c5affef3-0",
+          "1662969761c5affef3-1",
+          "cf3b613e-1995-4b56-871a-b1a9d4da2c15"
+        ],
+        "settings": {
+          "container_width": "container",
+          "reset_indent": false,
+          "section_title": "",
+          "text_title": "",
+          "inset_section": "0px 0px 0px 0px",
+          "offset_section": "0px 0px 0px 0px",
+          "bg_section": "#ffffff",
+          "carousel_view": false,
+          "items_view": "1",
+          "show_product_list": false,
+          "off_carousel_nav": false,
+          "out_nav": false,
+          "off_carousel_pag": false,
+          "product_style": "style_1"
+        }
+      },
+      "163004302624543b57": {
+        "type": "index-divider",
+        "settings": {
+          "section_view": "container",
+          "type_value": "vw",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_top_vw": 3.5,
+          "padding_bottom_vw": 3.5,
+          "margin_top": 0,
+          "margin_bottom": 0,
+          "background_color": "",
+          "tablet_padding_top": 30,
+          "tablet_padding_bottom": 30,
+          "tablet_margin_top": 0,
+          "tablet_margin_bottom": 0
+        }
+      },
+      "162945910130dbf1bc": {
+        "type": "index-featured-products",
+        "blocks": {
+          "162945910130dbf1bc-0": {
+            "type": "collection_tab",
+            "settings": {
+              "show_view_all": false,
+              "view_all_link_text": "Explore Collections",
+              "section_title": "",
+              "block_collection_title": "",
+              "block_collection": "frontpage",
+              "product_card_reviews": false,
+              "product_card_vendor": false,
+              "badge_card_toggle": true,
+              "product_card_variants": false,
+              "variants_type_url": "only_color",
+              "product_card_variants_limit": "5",
+              "product_card_options": false,
+              "current_text_product_option": "Color",
+              "opt_type": "btn",
+              "image_ratio": "adapt",
+              "show_secondary_image": false,
+              "image_padding": 0,
+              "bg_wrap_img_color": "",
+              "bg_img_color": "#f2f3f5"
+            }
+          }
+        },
+        "block_order": [
+          "162945910130dbf1bc-0"
+        ],
+        "settings": {
+          "section_title": "Best sellers",
+          "section_subtitle": "Shop the essential dresses of the season online at Vendy.",
+          "textalign_pos": "center",
+          "container_width": "container",
+          "bg_section": "rgba(0,0,0,0)",
+          "inverted": false,
+          "inset_section": "0px 0px 0px 0px",
+          "offset_section": "0px 0px 0px 0px",
+          "reset_indent": false,
+          "use_tabs": false,
+          "pc_grid_style": "grid_style_1",
+          "use_border_card": false,
+          "use_border_grid": false,
+          "all_view": false,
+          "products_count": "6",
+          "column_item": "xl-4",
+          "use_mobile_scroll": false,
+          "carousel_view": false,
+          "products_view": "4",
+          "off_carousel_nav": false,
+          "off_carousel_pag": true,
+          "carousel_control_type": "pagination",
+          "design_type": "type_1"
+        }
+      },
+      "16278999588811e107": {
+        "type": "index-divider",
+        "settings": {
+          "section_view": "full-width",
+          "type_value": "vw",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_top_vw": 2.9,
+          "padding_bottom_vw": 2.9,
+          "margin_top": 0,
+          "margin_bottom": 0,
+          "background_color": "",
+          "tablet_padding_top": 35,
+          "tablet_padding_bottom": 35,
+          "tablet_margin_top": 0,
+          "tablet_margin_bottom": 0
+        }
+      },
+      "163001111912be6562": {
+        "type": "index-banners",
+        "blocks": {
+          "163001111912be6562-0": {
+            "type": "banner",
+            "settings": {
+              "width": "6",
+              "banner_style": "overlay",
+              "off_overlay_mobile": false,
+              "use_bgb": false,
+              "bgb_color": "",
+              "bgb_color_opacity": 0.5,
+              "inset_block": "0 0 0 0",
+              "use_bottom_offset_mobile": true,
+              "margin_bottom": 30,
+              "use_bgo": false,
+              "bg_color": "",
+              "bg_color_opacity": 0.5,
+              "inverted": false,
+              "h_cpos": "start",
+              "v_cpos": "start",
+              "reverse_cpos": "flex-column",
+              "textalign_pos": "left",
+              "item_title": "New in this week",
+              "color_title": "#121212",
+              "item_subtitle": "MEN’S T-SHIRTS",
+              "color_subtitle": "#121212",
+              "item_text": "<p>Sale up to 50% off!<\/p>",
+              "color_text": "#797b7e",
+              "custom_heading": "",
+              "color_ch": "#797b7e",
+              "code": "",
+              "caption_size": "small",
+              "inset_caption": "6% 7% 6% 7%",
+              "item_link": "shopify:\/\/collections",
+              "link_text": "Shop now",
+              "link_type_banner": false,
+              "btn_style": "btn-primary",
+              "btn_size": "btn-md",
+              "margin_title": 22,
+              "margin_text": 20,
+              "margin_btn": 35,
+              "custom_class": ""
+            }
+          },
+          "163001111912be6562-1": {
+            "type": "banner",
+            "settings": {
+              "width": "6",
+              "banner_style": "overlay",
+              "off_overlay_mobile": false,
+              "use_bgb": false,
+              "bgb_color": "",
+              "bgb_color_opacity": 0.5,
+              "inset_block": "0 0 0 0",
+              "use_bottom_offset_mobile": true,
+              "margin_bottom": 30,
+              "use_bgo": false,
+              "bg_color": "",
+              "bg_color_opacity": 0.5,
+              "inverted": false,
+              "h_cpos": "start",
+              "v_cpos": "start",
+              "reverse_cpos": "flex-column",
+              "textalign_pos": "left",
+              "item_title": "Up to 40% off<br>on all items.",
+              "color_title": "#121212",
+              "item_subtitle": "DENIM PERFECT",
+              "color_subtitle": "#121212",
+              "item_text": "",
+              "color_text": "#797b7e",
+              "custom_heading": "",
+              "color_ch": "#797b7e",
+              "code": "",
+              "caption_size": "medium",
+              "inset_caption": "6% 7% 6% 7%",
+              "item_link": "shopify:\/\/collections",
+              "link_text": "Shop now",
+              "link_type_banner": false,
+              "btn_style": "btn-primary",
+              "btn_size": "btn-md",
+              "margin_title": 22,
+              "margin_text": 20,
+              "margin_btn": 35,
+              "custom_class": ""
+            }
+          }
+        },
+        "block_order": [
+          "163001111912be6562-0",
+          "163001111912be6562-1"
+        ],
+        "settings": {
+          "section_title": "",
+          "desc": "",
+          "container_width": "container-fluid",
+          "reset_indent": false,
+          "bg_section": "rgba(0,0,0,0)",
+          "inset_section": "0px 0px 0px 0px",
+          "offset_section": "0px 0px 0px 0px"
+        }
+      },
+      "1630011131ed6496f4": {
+        "type": "index-divider",
+        "settings": {
+          "section_view": "full-width",
+          "type_value": "vw",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_top_vw": 5.2,
+          "padding_bottom_vw": 3.1,
+          "margin_top": 0,
+          "margin_bottom": 0,
+          "background_color": "",
+          "tablet_padding_top": 39,
+          "tablet_padding_bottom": 39,
+          "tablet_margin_top": 0,
+          "tablet_margin_bottom": 0
+        }
+      }
+    },
+    "order": [
+      "16299826878a1eab41",
+      "16299758010ab07697",
+      "1627899736175f45d2",
+      "1662969762b867119f",
+      "163004302624543b57",
+      "162945910130dbf1bc",
+      "16278999588811e107",
+      "163001111912be6562",
+      "1630011131ed6496f4"
+    ]
+  }

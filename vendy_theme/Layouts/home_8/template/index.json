@@ -1,0 +1,498 @@
+{
+	"sections": {
+	  "1630049618ac01714f": {
+		"type": "index-image-with-text-overlay",
+		"blocks": {
+		  "8203c9b4-258f-4c48-9f58-aceb0bed6450": {
+			"type": "text",
+			"settings": {
+			  "text": "MODERN ESSENTIALS",
+			  "heading_size": 16,
+			  "font_weight": 600,
+			  "color": "#797B7E",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgc": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5
+			}
+		  },
+		  "2613b054-6912-49a3-a88a-ada4ff6e54b0": {
+			"type": "heading_h2",
+			"settings": {
+			  "heading_h2": "Sale up to 50% off",
+			  "heading_size": 72,
+			  "font_weight": 400,
+			  "color": "#121212",
+			  "indent_block": "0",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgi": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5,
+			  "title_animation": "none"
+			}
+		  },
+		  "1630049618ac01714f-2": {
+			"type": "text",
+			"settings": {
+			  "text": "<p>Get your Fashion Style<\/p>",
+			  "heading_size": 14,
+			  "font_weight": 400,
+			  "color": "#797b7e",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "1.3rem 0 0 0",
+			  "use_bgc": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5
+			}
+		  },
+		  "1630049618ac01714f-3": {
+			"type": "button",
+			"settings": {
+			  "button_label": "shop this collection",
+			  "button_link": "shopify:\/\/collections",
+			  "use_button": true,
+			  "btn_style": "btn-alternate",
+			  "btn_size": "btn-lg",
+			  "offset_block": "2.7rem 0 0 0"
+			}
+		  }
+		},
+		"block_order": [
+		  "8203c9b4-258f-4c48-9f58-aceb0bed6450",
+		  "2613b054-6912-49a3-a88a-ada4ff6e54b0",
+		  "1630049618ac01714f-2",
+		  "1630049618ac01714f-3"
+		],
+		"settings": {
+		  "container_width": "full-width",
+		  "inset_section": "0px 0px 0px 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "bg_section": "#ffffff",
+		  "padding_desktop": 455,
+		  "padding_mobile": 175,
+		  "bg_pos_mobile": 50,
+		  "use_bgo": false,
+		  "bg_color": "",
+		  "bg_color_opacity": 0.5,
+		  "parallax": true,
+		  "padding_parallax_desktop": 700,
+		  "bg_animation": "none",
+		  "caption_align": "center",
+		  "text_align": "center",
+		  "vertical_alignment": "center",
+		  "inverted": true,
+		  "use_bgc": false,
+		  "caption_bg_color": "",
+		  "caption_bg_color_opacity": 0.5,
+		  "inset_caption": "6% 7% 6% 7%",
+		  "offset_caption": "0 0 0 0",
+		  "caption_animation": "none"
+		}
+	  },
+	  "1630049696b9da95a6": {
+		"type": "index-image-with-text-overlay",
+		"blocks": {
+		  "fdafc2e1-0706-4bd5-9041-33874234bad0": {
+			"type": "text",
+			"settings": {
+			  "text": "HAPPENING NOW",
+			  "heading_size": 16,
+			  "font_weight": 600,
+			  "color": "#797B7E",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgc": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5
+			}
+		  },
+		  "01110a50-2421-447c-8d7f-48e9e5531da6": {
+			"type": "heading_h2",
+			"settings": {
+			  "heading_h2": "2021 Menswear<br>Trends",
+			  "heading_size": 72,
+			  "font_weight": 400,
+			  "color": "#121212",
+			  "indent_block": "0",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgi": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5,
+			  "title_animation": "none"
+			}
+		  },
+		  "1630049696b9da95a6-2": {
+			"type": "text",
+			"settings": {
+			  "text": "<p>The latest trends in fashion<\/p>",
+			  "heading_size": 14,
+			  "font_weight": 400,
+			  "color": "#797b7e",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgc": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5
+			}
+		  },
+		  "1630049696b9da95a6-3": {
+			"type": "button",
+			"settings": {
+			  "button_label": "shop this collection",
+			  "button_link": "shopify:\/\/collections",
+			  "use_button": true,
+			  "btn_style": "btn-alternate",
+			  "btn_size": "btn-lg",
+			  "offset_block": "2.7rem 0 0 0"
+			}
+		  }
+		},
+		"block_order": [
+		  "fdafc2e1-0706-4bd5-9041-33874234bad0",
+		  "01110a50-2421-447c-8d7f-48e9e5531da6",
+		  "1630049696b9da95a6-2",
+		  "1630049696b9da95a6-3"
+		],
+		"settings": {
+		  "container_width": "full-width",
+		  "inset_section": "0px 0px 0px 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "bg_section": "#ffffff",
+		  "padding_desktop": 465,
+		  "padding_mobile": 175,
+		  "bg_pos_mobile": 50,
+		  "use_bgo": false,
+		  "bg_color": "",
+		  "bg_color_opacity": 0.5,
+		  "parallax": true,
+		  "padding_parallax_desktop": 700,
+		  "bg_animation": "none",
+		  "caption_align": "left",
+		  "text_align": "center",
+		  "vertical_alignment": "center",
+		  "inverted": true,
+		  "use_bgc": false,
+		  "caption_bg_color": "",
+		  "caption_bg_color_opacity": 0.5,
+		  "inset_caption": "6% 7% 6% 0",
+		  "offset_caption": "0 0 0 0",
+		  "caption_animation": "none"
+		}
+	  },
+	  "1630049713a4828c8e": {
+		"type": "index-image-with-text-overlay",
+		"blocks": {
+		  "87f98402-32d7-4cf5-8225-136bf83867d1": {
+			"type": "text",
+			"settings": {
+			  "text": "NEW IN THIS WEEK",
+			  "heading_size": 16,
+			  "font_weight": 600,
+			  "color": "#ffffff",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgc": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5
+			}
+		  },
+		  "3cca8b53-4c00-416c-b01d-f5e939bdf099": {
+			"type": "heading_h2",
+			"settings": {
+			  "heading_h2": "Women's Clothing",
+			  "heading_size": 72,
+			  "font_weight": 400,
+			  "color": "#ffffff",
+			  "indent_block": "0",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgi": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5,
+			  "title_animation": "none"
+			}
+		  },
+		  "1630049713a4828c8e-2": {
+			"type": "text",
+			"settings": {
+			  "text": "<p>The latest trends in fashion<\/p>",
+			  "heading_size": 14,
+			  "font_weight": 400,
+			  "color": "#797b7e",
+			  "inset_block": "0 0 0 0",
+			  "offset_block": "5% 0 0 0",
+			  "use_bgc": false,
+			  "bgc_color": "",
+			  "bgc_color_opacity": 0.5
+			}
+		  },
+		  "1630049713a4828c8e-3": {
+			"type": "button",
+			"settings": {
+			  "button_label": "shop this collection",
+			  "button_link": "shopify:\/\/collections",
+			  "use_button": true,
+			  "btn_style": "btn-alternate",
+			  "btn_size": "btn-lg",
+			  "offset_block": "2.7rem 0 0 0"
+			}
+		  }
+		},
+		"block_order": [
+		  "87f98402-32d7-4cf5-8225-136bf83867d1",
+		  "3cca8b53-4c00-416c-b01d-f5e939bdf099",
+		  "1630049713a4828c8e-2",
+		  "1630049713a4828c8e-3"
+		],
+		"settings": {
+		  "container_width": "full-width",
+		  "inset_section": "0px 0px 0px 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "bg_section": "#ffffff",
+		  "padding_desktop": 460,
+		  "padding_mobile": 175,
+		  "bg_pos_mobile": 50,
+		  "use_bgo": false,
+		  "bg_color": "",
+		  "bg_color_opacity": 0.5,
+		  "parallax": true,
+		  "padding_parallax_desktop": 700,
+		  "bg_animation": "none",
+		  "caption_align": "center",
+		  "text_align": "center",
+		  "vertical_alignment": "center",
+		  "inverted": true,
+		  "use_bgc": false,
+		  "caption_bg_color": "",
+		  "caption_bg_color_opacity": 0.5,
+		  "inset_caption": "6% 7% 6% 7%",
+		  "offset_caption": "0 0 0 0",
+		  "caption_animation": "none"
+		}
+	  },
+	  "1630049725f16267db": {
+		"type": "index-divider",
+		"settings": {
+		  "section_view": "full-width",
+		  "type_value": "vw",
+		  "padding_top": 0,
+		  "padding_bottom": 0,
+		  "padding_top_vw": 4.1,
+		  "padding_bottom_vw": 4.1,
+		  "margin_top": 0,
+		  "margin_bottom": 0,
+		  "background_color": "",
+		  "tablet_padding_top": 35,
+		  "tablet_padding_bottom": 35,
+		  "tablet_margin_top": 0,
+		  "tablet_margin_bottom": 0
+		}
+	  },
+	  "162945910130dbf1bc": {
+		"type": "index-featured-products",
+		"blocks": {
+		  "162945910130dbf1bc-0": {
+			"type": "collection_tab",
+			"settings": {
+			  "show_view_all": false,
+			  "view_all_link_text": "Explore Collections",
+			  "section_title": "",
+			  "block_collection_title": "",
+			  "block_collection": "frontpage",
+			  "product_card_reviews": false,
+			  "product_card_vendor": false,
+			  "badge_card_toggle": true,
+			  "product_card_variants": false,
+			  "variants_type_url": "only_color",
+			  "product_card_variants_limit": "5",
+			  "product_card_options": false,
+			  "current_text_product_option": "Color",
+			  "opt_type": "btn",
+			  "image_ratio": "adapt",
+			  "show_secondary_image": false,
+			  "image_padding": 0,
+			  "bg_wrap_img_color": "",
+			  "bg_img_color": "#F2F3F5"
+			}
+		  },
+		  "8b585572-b7b0-4afd-958d-f8b1e53a30bf": {
+			"type": "collection_tab",
+			"settings": {
+			  "show_view_all": false,
+			  "view_all_link_text": "Explore Collections",
+			  "section_title": "",
+			  "block_collection_title": "",
+			  "block_collection": "frontpage",
+			  "product_card_reviews": false,
+			  "product_card_vendor": false,
+			  "badge_card_toggle": true,
+			  "product_card_variants": false,
+			  "variants_type_url": "only_color",
+			  "product_card_variants_limit": "5",
+			  "product_card_options": false,
+			  "current_text_product_option": "Color",
+			  "opt_type": "btn",
+			  "image_ratio": "adapt",
+			  "show_secondary_image": false,
+			  "image_padding": 0,
+			  "bg_wrap_img_color": "",
+			  "bg_img_color": "#F2F3F5"
+			}
+		  },
+		  "0766c402-c4d4-42fc-a85a-b7a51a858058": {
+			"type": "collection_tab",
+			"settings": {
+			  "show_view_all": false,
+			  "view_all_link_text": "Explore Collections",
+			  "section_title": "",
+			  "block_collection_title": "",
+			  "block_collection": "frontpage",
+			  "product_card_reviews": false,
+			  "product_card_vendor": false,
+			  "badge_card_toggle": true,
+			  "product_card_variants": false,
+			  "variants_type_url": "only_color",
+			  "product_card_variants_limit": "5",
+			  "product_card_options": false,
+			  "current_text_product_option": "Color",
+			  "opt_type": "btn",
+			  "image_ratio": "adapt",
+			  "show_secondary_image": false,
+			  "image_padding": 0,
+			  "bg_wrap_img_color": "",
+			  "bg_img_color": "#F2F3F5"
+			}
+		  }
+		},
+		"block_order": [
+		  "162945910130dbf1bc-0",
+		  "8b585572-b7b0-4afd-958d-f8b1e53a30bf",
+		  "0766c402-c4d4-42fc-a85a-b7a51a858058"
+		],
+		"settings": {
+		  "section_title": "On sale",
+		  "section_subtitle": "Top sale in this week",
+		  "textalign_pos": "left",
+		  "container_width": "container",
+		  "bg_section": "rgba(0,0,0,0)",
+		  "inverted": false,
+		  "inset_section": "0px 0px 0px 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "reset_indent": false,
+		  "use_tabs": true,
+		  "pc_grid_style": "grid_style_1",
+		  "use_border_card": false,
+		  "use_border_grid": false,
+		  "all_view": false,
+		  "products_count": "8",
+		  "column_item": "xl-3",
+		  "use_mobile_scroll": false,
+		  "carousel_view": true,
+		  "products_view": "4",
+		  "off_carousel_nav": false,
+		  "off_carousel_pag": true,
+		  "carousel_control_type": "pagination",
+		  "design_type": "type_1"
+		}
+	  },
+	  "16278999588811e107": {
+		"type": "index-divider",
+		"settings": {
+		  "section_view": "full-width",
+		  "type_value": "vw",
+		  "padding_top": 0,
+		  "padding_bottom": 0,
+		  "padding_top_vw": 2.8,
+		  "padding_bottom_vw": 2.9,
+		  "margin_top": 0,
+		  "margin_bottom": 0,
+		  "background_color": "",
+		  "tablet_padding_top": 25,
+		  "tablet_padding_bottom": 25,
+		  "tablet_margin_top": 0,
+		  "tablet_margin_bottom": 0
+		}
+	  },
+	  "163004888511237766": {
+		"type": "index-testimonials",
+		"blocks": {
+		  "163004888511237766-0": {
+			"type": "quote",
+			"settings": {
+			  "item_width": "col-lg-4",
+			  "inset_block": "0px 0px 0px 0px",
+			  "offset_block": "3rem 0px 0px 0px",
+			  "bg_block": "rgba(0,0,0,0)",
+			  "star": "5",
+			  "quote": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+			  "author": "Author's name",
+			  "author_info": "Author's info",
+			  "inverted": false
+			}
+		  },
+		  "163004888511237766-1": {
+			"type": "quote",
+			"settings": {
+			  "item_width": "col-lg-4",
+			  "inset_block": "0px 0px 0px 0px",
+			  "offset_block": "3rem 0px 0px 0px",
+			  "bg_block": "rgba(0,0,0,0)",
+			  "star": "5",
+			  "quote": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+			  "author": "Author's name",
+			  "author_info": "Author's info",
+			  "inverted": false
+			}
+		  },
+		  "163004888511237766-2": {
+			"type": "quote",
+			"settings": {
+			  "item_width": "col-lg-4",
+			  "inset_block": "0px 0px 0px 0px",
+			  "offset_block": "3rem 0px 0px 0px",
+			  "bg_block": "rgba(0,0,0,0)",
+			  "star": "4",
+			  "quote": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+			  "author": "Author's name",
+			  "author_info": "Author's info",
+			  "inverted": false
+			}
+		  }
+		},
+		"block_order": [
+		  "163004888511237766-0",
+		  "163004888511237766-1",
+		  "163004888511237766-2"
+		],
+		"settings": {
+		  "container_width": "container",
+		  "inset_section": "7rem 0px 7rem 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "bg_section": "#f2f3f5",
+		  "title": "Testimonials",
+		  "style": "type_1",
+		  "quote_size": "medium",
+		  "quote_color": "#121212",
+		  "caption_text": "",
+		  "text_align": "center",
+		  "quote_img": "shopify:\/\/shop_images\/quotes.png",
+		  "offset_quote_img": "0px 0px 30px 0px",
+		  "off_carousel_nav": false,
+		  "off_carousel_pag": false,
+		  "pag_align": "center"
+		}
+	  }
+	},
+	"order": [
+	  "1630049618ac01714f",
+	  "1630049696b9da95a6",
+	  "1630049713a4828c8e",
+	  "1630049725f16267db",
+	  "162945910130dbf1bc",
+	  "16278999588811e107",
+	  "163004888511237766"
+	]
+  }

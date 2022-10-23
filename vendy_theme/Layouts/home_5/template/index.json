@@ -1,0 +1,126 @@
+{
+	"sections": {
+	  "16300442953b28cc13": {
+		"type": "index-videobackground",
+		"settings": {
+		  "container_width": "full-width",
+		  "inset_section": "0px 0px 0px 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "bg_section": "#ffffff",
+		  "align": "center",
+		  "padding_desktop": 410,
+		  "padding_mobile": 180,
+		  "bg_box": "rgba(0,0,0,0)",
+		  "opacity_bgbox": 1,
+		  "bg_overlay": "#000000",
+		  "opacity_bg_overlay": 0.1,
+		  "inverted": true,
+		  "title": "Women's Clothing",
+		  "subtitle": "New in this week",
+		  "subtext": "shop this collection",
+		  "button": "Shop this collection",
+		  "link": "shopify:\/\/collections",
+		  "link_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0551\/8001\/files\/production_ID_3753687.mp4?v=1618754892"
+		}
+	  },
+	  "1630011131ed6496f4": {
+		"type": "index-divider",
+		"settings": {
+		  "section_view": "container",
+		  "type_value": "vw",
+		  "padding_top": 0,
+		  "padding_bottom": 0,
+		  "padding_top_vw": 4.5,
+		  "padding_bottom_vw": 4.5,
+		  "margin_top": 0,
+		  "margin_bottom": 0,
+		  "background_color": "",
+		  "tablet_padding_top": 30,
+		  "tablet_padding_bottom": 30,
+		  "tablet_margin_top": 0,
+		  "tablet_margin_bottom": 0
+		}
+	  },
+	  "162945910130dbf1bc": {
+		"type": "index-featured-products",
+		"blocks": {
+		  "162945910130dbf1bc-0": {
+			"type": "collection_tab",
+			"settings": {
+			  "show_view_all": false,
+			  "view_all_link_text": "Explore Collections",
+			  "section_title": "",
+			  "block_collection_title": "",
+			  "block_collection": "frontpage",
+			  "product_card_reviews": false,
+			  "product_card_vendor": false,
+			  "badge_card_toggle": true,
+			  "product_card_variants": false,
+			  "variants_type_url": "only_color",
+			  "product_card_variants_limit": "5",
+			  "product_card_options": false,
+			  "current_text_product_option": "Color",
+			  "opt_type": "btn",
+			  "image_ratio": "adapt",
+			  "show_secondary_image": false,
+			  "image_padding": 0,
+			  "bg_wrap_img_color": "",
+			  "bg_img_color": "#F2F3F5"
+			}
+		  }
+		},
+		"block_order": [
+		  "162945910130dbf1bc-0"
+		],
+		"settings": {
+		  "section_title": "Best sellers",
+		  "section_subtitle": "Shop the essential dresses of the season online at Vendy.",
+		  "textalign_pos": "center",
+		  "container_width": "container",
+		  "bg_section": "rgba(0,0,0,0)",
+		  "inverted": false,
+		  "inset_section": "0px 0px 0px 0px",
+		  "offset_section": "0px 0px 0px 0px",
+		  "reset_indent": false,
+		  "use_tabs": false,
+		  "pc_grid_style": "grid_style_1",
+		  "use_border_card": false,
+		  "use_border_grid": false,
+		  "all_view": false,
+		  "products_count": "7",
+		  "column_item": "xl-4",
+		  "use_mobile_scroll": false,
+		  "carousel_view": true,
+		  "products_view": "4",
+		  "off_carousel_nav": false,
+		  "off_carousel_pag": false,
+		  "carousel_control_type": "pagination",
+		  "design_type": "type_1"
+		}
+	  },
+	  "16300443057e3e1adb": {
+		"type": "index-divider",
+		"settings": {
+		  "section_view": "container",
+		  "type_value": "vw",
+		  "padding_top": 0,
+		  "padding_bottom": 0,
+		  "padding_top_vw": 4.5,
+		  "padding_bottom_vw": 4.5,
+		  "margin_top": 0,
+		  "margin_bottom": 0,
+		  "background_color": "",
+		  "tablet_padding_top": 29,
+		  "tablet_padding_bottom": 32,
+		  "tablet_margin_top": 0,
+		  "tablet_margin_bottom": 0
+		}
+	  }
+	},
+	"order": [
+	  "16300442953b28cc13",
+	  "1630011131ed6496f4",
+	  "162945910130dbf1bc",
+	  "16300443057e3e1adb"
+	]
+  }

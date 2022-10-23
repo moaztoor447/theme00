@@ -1,0 +1,273 @@
+{
+    "sections": {
+      "16401635449328e2a6": {
+        "type": "index-megamosaic",
+        "blocks": {
+          "2c129eb5-9ebb-4695-985f-2a0ffb39d59a": {
+            "type": "video",
+            "settings": {
+              "item_width": "12",
+              "item_width_t": "12",
+              "item_width_m": "12",
+              "inset_item_block": "0px 0px 0px 0px",
+              "offset_top_item_block": 0,
+              "block_title": "",
+              "block_text": "",
+              "align": "right",
+              "padding_desktop": 21,
+              "padding_mobile": 170,
+              "bg_overlay": "#000000",
+              "opacity_bg_overlay": 0.1,
+              "use_bgo": false,
+              "bg_color": "",
+              "bg_color_opacity": 0.5,
+              "inverted": true,
+              "h_cpos": "start",
+              "v_cpos": "end",
+              "textalign_pos": "left",
+              "item_title": "<p>The latest trends<\/p><p> in fashion<\/p>",
+              "color_title": "#121212",
+              "item_subtitle": "<p>2021 Collection<\/p>",
+              "color_subtitle": "#121212",
+              "item_text": "",
+              "color_text": "#797b7e",
+              "custom_heading": "",
+              "color_ch": "#797b7e",
+              "caption_size": "medium",
+              "inset_caption": "6% 7% 8% 7%",
+              "item_link": "shopify:\/\/collections\/accessories",
+              "link_text": "explore collections",
+              "link_type_banner": false,
+              "btn_style": "link-default",
+              "btn_size": "btn-md",
+              "link_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0551\/8001\/files\/production_ID_3753697.mp4?v=1640167678",
+              "bgvideo_position_x": 50
+            }
+          }
+        },
+        "block_order": [
+          "2c129eb5-9ebb-4695-985f-2a0ffb39d59a"
+        ],
+        "settings": {
+          "section_title": "",
+          "section_subtitle": "",
+          "sec_title_align": "left",
+          "container_width": "full-width",
+          "bg_section": "#ffffff",
+          "inset_section": "0px 0px 0px 0px",
+          "offset_section": "0px 0px 0px 0px",
+          "reset_indent": false
+        }
+      },
+      "164016257202af0e27": {
+        "type": "index-megamosaic",
+        "blocks": {
+          "1640162571a0ec54c5-0": {
+            "type": "collection_products",
+            "settings": {
+              "item_width": "3",
+              "item_width_t": "3",
+              "item_width_m": "12",
+              "inset_item_block": "0px 0px 0px 0px",
+              "offset_top_item_block": 4,
+              "products_count": "2",
+              "block_title": "",
+              "block_text": "",
+              "title_align": "left",
+              "block_collection": "accessories",
+              "item_style": "grid",
+              "pc_grid_style": "grid_style_2",
+              "use_border_card": false,
+              "product_card_reviews": false,
+              "product_card_vendor": false,
+              "badge_card_toggle": false,
+              "product_card_variants": false,
+              "variants_type_url": "only_color",
+              "product_card_variants_limit": "5",
+              "product_card_options": false,
+              "current_text_product_option": "Color",
+              "opt_type": "btn",
+              "image_ratio": "square",
+              "show_secondary_image": false,
+              "image_padding": 0,
+              "bg_wrap_img_color": "#ffffff",
+              "bg_img_color": "#f2f3f5",
+              "item_line_count": 1,
+              "item_line_gap": 30,
+              "carousel_view": false,
+              "items_view": "4",
+              "off_carousel_nav": false,
+              "off_carousel_pag": false,
+              "carousel_control_type": "pagination"
+            }
+          },
+          "16304c4e-daa9-4389-bdb5-3f9a67ba08b7": {
+            "type": "product",
+            "settings": {
+              "block_title": "",
+              "block_text": "",
+              "title_align": "left",
+              "product": "asos-hi-leg-hi-shine-body",
+              "item_width": "6",
+              "item_width_t": "6",
+              "item_width_m": "12",
+              "inset_item_block": "0px 0px 0px 0px",
+              "offset_top_item_block": 4,
+              "item_style": "grid",
+              "pc_grid_style": "grid_style_2",
+              "use_border_card": false,
+              "product_card_reviews": false,
+              "product_card_vendor": false,
+              "badge_card_toggle": false,
+              "product_card_variants": false,
+              "variants_type_url": "only_color",
+              "product_card_variants_limit": "5",
+              "product_card_options": false,
+              "current_text_product_option": "Color",
+              "opt_type": "btn",
+              "image_ratio": "square",
+              "show_secondary_image": false,
+              "image_padding": 0,
+              "bg_wrap_img_color": "",
+              "bg_img_color": "#f2f3f5"
+            }
+          },
+          "c36bec42-a653-4628-9a25-902ec31bfbf1": {
+            "type": "collection_products",
+            "settings": {
+              "item_width": "3",
+              "item_width_t": "3",
+              "item_width_m": "12",
+              "inset_item_block": "0px 0px 0px 0px",
+              "offset_top_item_block": 4,
+              "products_count": "2",
+              "block_title": "",
+              "block_text": "",
+              "title_align": "left",
+              "block_collection": "clothes",
+              "item_style": "grid",
+              "pc_grid_style": "grid_style_2",
+              "use_border_card": false,
+              "product_card_reviews": false,
+              "product_card_vendor": false,
+              "badge_card_toggle": false,
+              "product_card_variants": false,
+              "variants_type_url": "only_color",
+              "product_card_variants_limit": "5",
+              "product_card_options": false,
+              "current_text_product_option": "Color",
+              "opt_type": "btn",
+              "image_ratio": "square",
+              "show_secondary_image": false,
+              "image_padding": 0,
+              "bg_wrap_img_color": "",
+              "bg_img_color": "#f2f3f5",
+              "item_line_count": 1,
+              "item_line_gap": 30,
+              "carousel_view": false,
+              "items_view": "4",
+              "off_carousel_nav": false,
+              "off_carousel_pag": false,
+              "carousel_control_type": "pagination"
+            }
+          }
+        },
+        "block_order": [
+          "1640162571a0ec54c5-0",
+          "16304c4e-daa9-4389-bdb5-3f9a67ba08b7",
+          "c36bec42-a653-4628-9a25-902ec31bfbf1"
+        ],
+        "settings": {
+          "section_title": "",
+          "section_subtitle": "",
+          "sec_title_align": "left",
+          "container_width": "full-width",
+          "bg_section": "#ffffff",
+          "inset_section": "0px 0px 0px 0px",
+          "offset_section": "30px 0px 0px 0px",
+          "reset_indent": false
+        }
+      },
+      "1640881291c4bf429e": {
+        "type": "index-megamosaic",
+        "blocks": {
+          "164088129019f04b94-0": {
+            "type": "collection_products",
+            "settings": {
+              "item_width": "12",
+              "item_width_t": "12",
+              "item_width_m": "12",
+              "inset_item_block": "0px 0px 0px 0px",
+              "offset_top_item_block": 2,
+              "products_count": "8",
+              "block_title": "",
+              "block_text": "",
+              "title_align": "left",
+              "block_collection": "clothing",
+              "item_style": "grid",
+              "pc_grid_style": "grid_style_2",
+              "use_border_card": false,
+              "product_card_reviews": false,
+              "product_card_vendor": false,
+              "badge_card_toggle": false,
+              "product_card_variants": false,
+              "variants_type_url": "only_color",
+              "product_card_variants_limit": "5",
+              "product_card_options": false,
+              "current_text_product_option": "Color",
+              "opt_type": "btn",
+              "image_ratio": "square",
+              "show_secondary_image": false,
+              "image_padding": 0,
+              "bg_wrap_img_color": "",
+              "bg_img_color": "#f2f3f5",
+              "item_line_count": 4,
+              "item_line_gap": 30,
+              "carousel_view": false,
+              "items_view": "4",
+              "off_carousel_nav": false,
+              "off_carousel_pag": false,
+              "carousel_control_type": "pagination"
+            }
+          }
+        },
+        "block_order": [
+          "164088129019f04b94-0"
+        ],
+        "settings": {
+          "section_title": "",
+          "section_subtitle": "",
+          "sec_title_align": "left",
+          "container_width": "full-width",
+          "bg_section": "#ffffff",
+          "inset_section": "15px 0px 0px 0px",
+          "offset_section": "0px 0px 0px 0px",
+          "reset_indent": false
+        }
+      },
+      "1627899736175f45d2": {
+        "type": "index-divider",
+        "settings": {
+          "section_view": "container",
+          "type_value": "vw",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_top_vw": 2,
+          "padding_bottom_vw": 2,
+          "margin_top": 0,
+          "margin_bottom": 0,
+          "background_color": "",
+          "tablet_padding_top": 26,
+          "tablet_padding_bottom": 24,
+          "tablet_margin_top": 0,
+          "tablet_margin_bottom": 0
+        }
+      }
+    },
+    "order": [
+      "16401635449328e2a6",
+      "164016257202af0e27",
+      "1640881291c4bf429e",
+      "1627899736175f45d2"
+    ]
+  }
